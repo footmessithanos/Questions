@@ -4,5 +4,6 @@ int main() {
 	int X,Y;
 	scanf("%d%d",&X,&Y);
 	printf("%d",(4*X)+Y);
+    return 0;
 
 }
